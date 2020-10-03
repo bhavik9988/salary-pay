@@ -1,3 +1,4 @@
+#code made by jasjit singh
 def computepay(h,r):
     return 42.37
 x=input("enter no. of hours:")
