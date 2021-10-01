@@ -1,4 +1,4 @@
-#code made by jasjit singh
+#code made by XYZ
 def computepay(h,r):
     return 42.37
 x=input("enter no. of hours:")
@@ -11,3 +11,4 @@ elif hrs>=40:
     pay=(40*rate)+(hrs-40)*rate*1.5
 
 print("Pay",pay)
+#heyy
