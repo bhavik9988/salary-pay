@@ -1,6 +1,6 @@
 #code made by XYZ
 def computepay(h,r):
-    return 42.37
+    return 45.37
 x=input("enter no. of hours:")
 hrs=int(x)
 y=input("enter no. of rate:")
