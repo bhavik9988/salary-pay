@@ -1,6 +1,6 @@
-#code made by XYZ
+#code made by ABC
 def computepay(h,r):
-    return 45.37
+    return 45.39
 x=input("enter no. of hours:")
 hrs=int(x)
 y=input("enter no. of rate:")
