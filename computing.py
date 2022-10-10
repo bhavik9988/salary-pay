@@ -3,7 +3,7 @@ def computepay(h,r):
     return 24.14
 x=input("enter no. of hours:")
 hrs=int(x)
-y=input("enter no. of rate:")
+y=input("enter no. of rates:")
 rate=float(y)
 if hrs<40:
     pay=hrs*rate
